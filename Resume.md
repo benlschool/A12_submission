@@ -5,6 +5,8 @@ XXX North St., XXXXXX, CT XXXXXX
 benjamin.lassy@uconn.edu |
 https://www.linkedin.com/in/benjamin-lassy-994b2832a/
 
+![Alt text](https://media.licdn.com/dms/image/v2/D4E35AQHhdD70nxCbkQ/profile-framedphoto-shrink_200_200/profile-framedphoto-shrink_200_200/0/1727749671370?e=1732759200&v=beta&t=GzR9g0SXayNeM26P8hylMqjp9VRVy7ynRQm7z68IvAE "Photo Link Broken Error")
+
 # Education
 
 **University of Connecticut**, Storrs, CT (currently enrolled, GPA: 3.82)
@@ -13,7 +15,7 @@ Bachelor of Arts, Dual Degree: Geographic Information Science and History
 
 **Minor:** English, May 2025
 
-**Relevant coursework:** Fundamentals of Spatial Database Systems, Introduction to Geospatial Analysis, Field Methods in Geography, History of China, History of American Imperialism 
+**Relevant coursework:** Fundamentals of Spatial Database Systems, Introduction to Geospatial Analysis, Field Methods in Geography, History of China, History of American Imperialism
 
 # Skills
 
